@@ -1,7 +1,7 @@
 import pinecone
 
 # Initialize Pinecone
-pinecone.init(api_key="your-api-key", environment="your-environment")
+pinecone.init(api_key="pcsk_5dPVpo_DDZQFMfJjz3Ho4orVtTgHmjXd898yfBjrQuusUg2RyHvPjFLxzmMZM6o3it4Gyh", environment="your-environment")
 
 # Create a Pinecone index
 index_name = "example-index"
